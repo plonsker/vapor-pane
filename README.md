@@ -1,4 +1,4 @@
-#Vaporpane
+# Vaporpane
 
 This repo contains a Chrome extension that is meant to emulate the aesthetic of vaporwave in every new tab.
 
